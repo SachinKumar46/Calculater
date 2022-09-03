@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.btn button{
+    width: 30px;
+    padding: 1%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    
+}
