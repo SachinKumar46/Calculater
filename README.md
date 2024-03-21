@@ -1,2 +1,2 @@
 # Calculater
-https://sachinrajput98.github.io/Calculater/
+ https://sachinkumar46.github.io/Calculater/
